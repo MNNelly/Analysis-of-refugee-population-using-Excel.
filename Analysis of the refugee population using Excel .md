@@ -1,5 +1,5 @@
 # Analysis-of-refugee-population-using-Excel.
-Analysis of the refugee population using Excel 
+
 In this project, I analyzed the refugee demographics across the world between 2017 and 2022 . The source of data is the UNHCR website- refugee statistics.
 
 **Background of the analysis**
