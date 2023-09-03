@@ -24,7 +24,7 @@ This analysis is based on a dataset with information regarding refugees across t
 
 1. Excel
 2. Pivot table
-3. Charts
+3. Visualization
 
 
 
