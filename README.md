@@ -3,15 +3,7 @@ In this project, I analyzed the refugee demographics across the world between 20
 
 # Background of the analysis.
 
-In recent years, due to political instability in most of the countries across the world, there has been a surge in the number of people fleeing their countries. This is a way of keeping themselves and their families safe.
-This analysis is based on a dataset with information regarding refugees across the globe. Some of the columns in the dataset are country of origin, country of asylum, gender, and age.
-
-# Questions to be answered.
-
-1.	What is the total number of refugees over the years?
-2.	What percentage refugees voluntarily repatriate?
-3.	What year had the greatest number of refugees?
-4.	What is the average percentage of female and male refugees?
+In recent years, escalating political instability worldwide has prompted a significant increase in the number of individuals seeking refuge by fleeing their home countries. This act serves as a crucial means for safeguarding both themselves and their families from harm. The analysis conducted herein relies on a dataset containing vital information pertaining to refugees globally. Key columns within this dataset include details on the country of origin and asylum, gender, and age of the refugees. Understanding and analyzing this data is of utmost importance for comprehending the dynamics of global displacement and aiding in the formulation of effective humanitarian responses.
    
 # Insights
 
